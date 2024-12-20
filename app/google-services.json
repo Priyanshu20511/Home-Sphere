@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963585441206",
+    "project_id": "smart-home-automation-ap-74459",
+    "storage_bucket": "smart-home-automation-ap-74459.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963585441206:android:28deb5bb580fab2915d517",
+        "android_client_info": {
+          "package_name": "com.example.homesphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEqpWYm0Wq3bDaZDEboz6UCYOaIb222s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
